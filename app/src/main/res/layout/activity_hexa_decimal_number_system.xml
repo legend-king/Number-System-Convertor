@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HexaDecimalFiles.HexaDecimalNumberSystem">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="#EADDDD"
+        android:backgroundTint="#EADDDD"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/hexadecimalconvertor"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0088F3"
+                android:layout_margin="10dp"
+                android:text="@string/hexadecimalconvertor"
+                android:background="@drawable/rounded_corner"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/hexadecimalconvertorpoint"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0088F3"
+                android:text="@string/hexadecimalconvertorpoint"
+                android:layout_margin="10dp"
+                android:background="@drawable/rounded_corner"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/hexadecimalAddition"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0088F3"
+                android:text="@string/hexadecimaladdition"
+                android:background="@drawable/rounded_corner"
+                android:layout_margin="10dp"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/hexadecimalfifteens"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0088F3"
+                android:text="@string/fifteenscomplement"
+                android:layout_margin="10dp"
+                android:background="@drawable/rounded_corner"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/hexadecimalsixteens"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0088F3"
+                android:text="@string/sixteenscomplement"
+                android:layout_margin="10dp"
+                android:background="@drawable/rounded_corner"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/hexadecimalSubtraction"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0088F3"
+                android:text="@string/hexadecimalsubtraction"
+                android:layout_margin="10dp"
+                android:background="@drawable/rounded_corner"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

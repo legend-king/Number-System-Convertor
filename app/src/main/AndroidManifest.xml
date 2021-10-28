@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.numbersystemconvertor">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NumberSystemConvertor">
+        <activity
+            android:name=".HexaDecimalFiles.HexaDecimalSubtraction"
+            android:exported="true" />
+        <activity
+            android:name=".HexaDecimalFiles.SixteensComplement"
+            android:exported="true" />
+        <activity
+            android:name=".HexaDecimalFiles.FifteensComplement"
+            android:exported="true" />
+        <activity
+            android:name=".HexaDecimalFiles.HexaDecimalAddition"
+            android:exported="true" />
+        <activity
+            android:name=".HexaDecimalFiles.HexaDecimalPointConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".HexaDecimalFiles.HexaDecimalConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".HexaDecimalFiles.HexaDecimalNumberSystem"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.DecimalSubtraction"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.TensComplement"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.NinesComplement"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.DecimalAddition"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.DecimalPointConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.DecimalConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".DecimalFiles.DecimalNumberSystem"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.OctalSubtraction"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.EightsComplement"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.SevensComplement"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.OctalAddition"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.OctalPointConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.OctalConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.BinaryPointConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".OctalFiles.OctalNumberSystem"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.BinarySubtraction"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.TwosComplement"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.OnesComplement"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.BinaryAddition"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.BinaryConvertor"
+            android:exported="true" />
+        <activity
+            android:name=".BinaryFiles.BinaryNumberSystem"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

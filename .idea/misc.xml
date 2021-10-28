@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/drawable/rounded_corner.xml" value="0.2526041666666667" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/drawable/rounded_corner1.xml" value="0.2526041666666667" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_binary_addition.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_binary_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_binary_number_system.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_binary_point_convertor.xml" value="0.18055555555555555" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_binary_subtraction.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_decimal_addition.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_decimal_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_decimal_number_system.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_decimal_point_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_decimal_subtraction.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_eights_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_fifteens_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_hexa_decimal_addition.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_hexa_decimal_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_hexa_decimal_number_system.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_hexa_decimal_point_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_hexa_decimal_subtraction.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_nines_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_octal_addition.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_octal_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_octal_number_system.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_octal_point_convertor.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_octal_subtraction.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_ones_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_sevens_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_sixteens_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_tens_complement.xml" value="0.23645833333333333" />
+        <entry key="..\:/AndroidStudioProjects/NumberSystemConvertor/app/src/main/res/layout/activity_twos_complement.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
